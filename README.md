@@ -2,10 +2,8 @@
 knowledge about image retrieval 关于图像检索的知识
 
 ## papers & codes 文章和代码
----
+
 ### CNN
-[^_^]：
-  # 模板：() 【[]()】
   
 >[Neural Codes for Image Retrieval](https://arxiv.org/abs/1404.1777) 【[code](https://github.com/arbabenko/Spoc)】
 
