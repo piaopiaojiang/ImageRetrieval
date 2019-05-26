@@ -12,3 +12,6 @@ knowledge about image retrieval 关于图像检索的知识
 >[Aggregating Deep Convolutional Features for Image Retrieval](https://arxiv.org/abs/1510.07493v1) (spoc) 【[code](https://github.com/arbabenko/Spoc)】
 
 >[Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512v1) (gem) 【[code](http://cmp.felk.cvut.cz/cnnimageretrieval/)】
+
+
+### Re-ranking
